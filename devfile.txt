@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Dev file
 128
+=======
+Dev file Hello
+>>>>>>> Second dev commit
