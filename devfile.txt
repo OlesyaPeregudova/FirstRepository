@@ -1,6 +1,4 @@
-<<<<<<< HEAD
+
 Dev file
-128
-=======
-Dev file Hello
->>>>>>> Second dev commit
+12
+Dev file Hell
