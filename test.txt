@@ -1,5 +1,7 @@
 Hello Git!!!
-It is a new line new line 
+It is a new line
+ new 
+line 
 
 
 
